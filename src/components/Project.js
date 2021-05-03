@@ -33,10 +33,8 @@ const Project = ({ project }) => {
                 >
                     <h3>{project.name}</h3>
                 </Link>
-                <h4>{project.skills}</h4>
             </div>
         </Router>
-
     )
 }
 
