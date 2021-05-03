@@ -11,8 +11,8 @@ const Project = ({ project }) => {
     return (
         <Router>
             <img className="img-fluid rounded"
-                src={require(`../assets/images/${project.image}`).default}
-                // src={require(`${project.image}`).default}
+                // src={require(`../assets/images/${project.image}`).default}
+                src={require(`${project.image}`).default}
                 alt={project.imageAlt}
                 key={project.image}
             />

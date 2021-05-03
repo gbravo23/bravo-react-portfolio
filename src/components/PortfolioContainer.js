@@ -28,7 +28,7 @@ function PortfolioContainer() {
         <div>
             {/* Pass the state value and the setter as props to NavTabs */}
             <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
-            {/* Call the renderPage function passing in the currentPage */}
+            {/* Call the renderPage function passing in the currentPage */}x```
             <hr></hr>
             <div className="page-container">{renderPage(currentPage)}</div>
             <div><Footer /></div>
