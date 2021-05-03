@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Back2work",
+        "image": "back2work.png",
+        "imageAlt": " Back2work homepage screenshot",
+        "githubLink": "//github.com/gbravo23/back2work",
+        "githubLinkAlt": "Back2work github repository",
+        "siteLink": "//vllback2work.herokuapp.com/",
+        "siteLinkAlt": "Back2work live application",
+        "skills": "MySql/Sequelize/Handlebars",
+        "id": "1"
+    },
+    {
+        "name": "Password Generator",
+        "image": "passwordgenerator.png",
+        "imageAlt": "Password generator screenshot",
+        "githubLink": "//github.com/gbravo23/georgespasswordgenerator",
+        "githubLinkAlt": "Password Generator github repository",
+        "siteLink": "//gbravo23.github.io/georgespasswordgenerator/",
+        "siteLinkAlt": "Password Generator live application",
+        "skills": "JavaScript",
+        "id": "2"
+    },
+    {
+        "name": "Run Buddy",
+        "image": "runbuddyss.png",
+        "imageAlt": "Screenshot of Run Buddy homepage",
+        "githubLink": "//github.com/gbravo23/run-buddy",
+        "githubLinkAlt": "Run Buddy github repository",
+        "siteLink": "//gbravo23.github.io/run-buddy/",
+        "siteLinkAlt": "Run Buddy live application",
+        "skills": "HTML/CSS",
+        "id": "3"
+    },
+    {
+        "name": "Cinema Search",
+        "image": "cinemasearch.png",
+        "imageAlt": "Screenshot of Cinema Search homepage",
+        "githubLink": "//github.com/Govepitr/GroupProject1",
+        "githubLinkAlt": "Cinema Search github repository",
+        "siteLink": "//govepitr.github.io/GroupProject1/",
+        "siteLinkAlt": "Cinema Search live application",
+        "skills": "JS/APIs/Materialize",
+        "id": "4"
+    },
+    {
+        "name": "Workday Scheduler",
+        "image": "workdayscheduler.png",
+        "imageAlt": "Screenshot of Workday Scheduler's home page",
+        "githubLink": "//github.com/gbravo23/Bravo-Work-Scheduler",
+        "githubLinkAlt": "Workday Scheduler github repository",
+        "siteLink": "//gbravo23.github.io/Bravo-Work-Scheduler/",
+        "siteLinkAlt": "Workday Scheduler live application",
+        "skills": "JQuery",
+        "id": "5"
+    },
+    {
+        "name": "Horiseon",
+        "image": "horiseon.png",
+        "imageAlt": "Screenshot of Horiseon homepage",
+        "githubLink": "//github.com/gbravo23/challenge-1",
+        "githubLinkAlt": "Horiseon github repository",
+        "siteLink": "//gbravo23.github.io/challenge-1/",
+        "siteLinkAlt": "Horiseon live application",
+        "skills": "HTML/CSS",
+        "id": "6"
+    }
+]
